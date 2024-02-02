@@ -65,5 +65,6 @@
 | 2주차 | Week2_Monday | [소수&팰린드롬](https://www.acmicpc.net/problem/1747) |  X  | `진행 완료` |
 | 2주차 | Week2_Tuesday | [골드바흐의 추측](https://www.acmicpc.net/problem/9020) |  X  | `진행 완료` |
 | 2주차 | Week2_Wednesday | [기타리스트](https://www.acmicpc.net/problem/1495) |  X  | `진행 완료` |
+| 2주차 | Week2_Friday | [쉬운 계단 ](https://www.acmicpc.net/problem/10844) |  X  | `진행 완료` |
 
 
